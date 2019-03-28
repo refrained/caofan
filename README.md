@@ -5,5 +5,8 @@ my first project for web-developer
  ISOFTSTONE
 
 ##tips
+#### installnation
+
+`npm install`
 
 IF YOU LIKE IT, PLEASE OFFER A PROPOSAL
